@@ -1,0 +1,78 @@
+body{
+    background-image: url(pexels-hasan-albari-1229861.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.navbar-brand{
+    font-weight:  500;
+    color: rgb(255, 255, 255);
+}
+.card{
+    border-radius: 1rem;
+    box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);
+
+    background: rgba(161, 47, 47, 0.1);
+    backdrop-filter: blur(1rem);
+
+    border: 1px solid;
+    width: 100%;
+
+    border-top-color: rgba(225, 225, 225, 0.5);
+    border-bottom-color: rgba(225, 225, 225, 0.5);
+    border-right-color: rgba(225, 225, 225, 0.5);
+    border-left-color: rgba(225, 225, 225, 0.5);
+
+    
+}
+.para{
+    color: #FCFBFC;
+}
+
+.insta-link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.fb-link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   
+}
+
+.pintrest-link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+
+.navbar{
+    background: hsl(0, 0%, 100% / 0.1);
+}
+
+.hd{
+    position: fixed;
+    width: 100%;
+}
+
+.foot{
+    height: 4rem;
+    padding: 0;
+}
+
+.op{
+    font-weight:  500;
+    color: rgb(255, 255, 255);
+    justify-content: space-between;
+}
+
+#profile-section{
+    padding-top: 5rem;
+}
+
+
